@@ -1,0 +1,1 @@
+Illustrative design preview images for documentation. They are not browser screenshots of a deployed site. Open index.html, test the layout, and capture fresh browser screenshots before final submission.\n
